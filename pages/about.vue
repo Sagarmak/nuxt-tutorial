@@ -1,6 +1,7 @@
 <template>
   <div>
-    Welcome to the best corny dad jokes on the web
+    <h3>About DadJokes</h3>
+    <p>This is an app that displays corny dad jokes</p>
   </div>
 </template>
 
@@ -8,7 +9,7 @@
 export default {
   head() {
     return {
-      title: "Welcome to dad jokes",
+      title: "About the App",
       meta: [
         {
           hid: "description",
