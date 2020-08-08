@@ -25,7 +25,7 @@ body {
   background: #f4f4f4;
 }
 a {
-  color: #666;
+  color: inherit;
   text-decoration: none;
 }
 ul {
